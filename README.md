@@ -14,7 +14,7 @@ A secure PHP contact form with IconCaptcha and PHPMailer for robust spam protect
 - [Credits](#credits)
 - [Contribution](#contribution)
 - [License](#license)
-- [Project Link](#project-Link)
+- [Project Link](#project-link)
 
 This project implements a secure PHP contact form, integrating IconCaptcha for protection against automated submissions and PHPMailer for secure email sending.
 
@@ -76,7 +76,7 @@ Contributions are welcome. To contribute:
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
 
-## Project Link 
+## Link 
 
 [https://github.com/yourusername/yourprojectname](https://github.com/yourusername/yourprojectname)
 
