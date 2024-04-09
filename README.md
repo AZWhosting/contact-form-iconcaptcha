@@ -18,7 +18,6 @@ This project implements a secure PHP contact form, integrating IconCaptcha for p
 - [Credits](#credits)
 - [Contribution](#contribution)
 - [License](#license)
-- [Link](#link)
 
 ## Features
 
@@ -92,7 +91,6 @@ Ce projet implémente un formulaire de contact sécurisé en PHP, intégrant Ico
 - [Crédits](#crédits)
 - [Contribution](#contribution-1)
 - [Licence](#licence)
-- [Lien du projet](#lien-du-projet)
 
 ## Fonctionnalités
 
