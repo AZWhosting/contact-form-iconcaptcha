@@ -77,6 +77,8 @@ Contributions are welcome. Please fork the project, create your feature branch, 
 This project is licensed under the MIT License - see the `LICENSE` file for details.
 
 ---
+[🇫🇷 Français](#projet-de-formulaire-de-contact-avec-iconcaptcha)] | [🇺🇸 English](#contact-form-project-with-iconcaptcha)
+
 
 # Projet de Formulaire de Contact avec IconCaptcha
 Ce projet implémente un formulaire de contact sécurisé en PHP, intégrant IconCaptcha pour la protection contre les soumissions automatisées et PHPMailer pour l'envoi d'emails sécurisé.
