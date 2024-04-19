@@ -1,0 +1,13 @@
+html, body, .container-table {
+    height: calc(100% - 50px);
+}
+.container {
+    max-width: 620px;
+}
+.container-table {
+    display: table;
+}
+.vertical-center-row {
+    display: table-cell;
+    vertical-align: middle;
+}
