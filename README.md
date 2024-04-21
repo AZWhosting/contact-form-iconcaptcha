@@ -34,7 +34,7 @@ This project implements a secure PHP contact form, integrating IconCaptcha for p
 
 ## Installation
 
-1. Clone the repository to your web server: `git clone https://github.com/yourusername/yourprojectname.git`
+1. Clone the repository to your web server: `git clone https://github.com/AZWhosting/contact-form-iconcaptcha.git`
 2. Install Composer dependencies: `composer install`
 3. Copy `.env.example` to `.env` and configure it according to your environment:
    ```bash
@@ -107,7 +107,7 @@ Ce projet implémente un formulaire de contact sécurisé en PHP, intégrant Ico
 
 ## Installation
 
-1. Clonez le dépôt sur votre serveur web : `git clone https://github.com/yourusername/yourprojectname.git`
+1. Clonez le dépôt sur votre serveur web : `git clone https://github.com/AZWhosting/contact-form-iconcaptcha.git`
 2. Installez les dépendances Composer : `composer install`
 3. Copiez `.env.example` en `.env` et configurez-le selon votre environnement :
    ```bash
